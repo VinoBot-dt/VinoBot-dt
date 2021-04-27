@@ -1,10 +1,10 @@
-const ownerNumber = ["wa.me/5522981631284"] 
+const ownerNumber = ["557192165080@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '5522981631284' 
+const OriginalOwner = '557192165080' 
 // mude para seu numero
 
-const cr = '𝕍𝕚𝕟𝕠'𝕤 𝔹𝕠𝕥 - 𝔻𝕋\n' 
+const cr = '𝐌𝐄𝐃𝐔𝐒𝐀-𝐁𝐎𝐓\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -36,7 +36,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=5522981631284:+55 22 98163-1284\n' 
++ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
